@@ -7,7 +7,7 @@ function HelloWorld(id) {
   greeting = document.createElement('h3');
   greeting.setAttribute('id', 'hello');
   greeting.style.visibility = "hidden";
-  greeting.innerHTML = "Hello World Good Afternoon Welcome";
+  greeting.innerHTML = "Hello World Good Afternoon Welcome to CI/CD";
 
   element.appendChild(greeting);
 
